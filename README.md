@@ -7,7 +7,7 @@ The data for this case study was provided with the courtesy of BCG Gamma during 
 
 This case study focus on client's data from an energy company. **The goal is to predict churn, and then propose a solution to avoid it**.
 
-At the end, we propose a model that allows PowerCo to save XX% of its margin.
+At the end, we propose a model that allows PowerCo to save roughly 5% of its margin.
 
 ## Instructions
 
