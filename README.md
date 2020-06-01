@@ -7,8 +7,8 @@ The data for this case study was provided with the courtesy of BCG Gamma during 
 
 This case study focus on client's data from an energy company. **The goal is to predict churn, and then propose a solution to avoid it**.
 
-At the end, using an xgboost model and a coupon strategy, we allow PowerCo to save roughly 6% of its margin by preventing churn.
+At the end, using an XGBoost model and a coupon strategy, we allow PowerCo to save roughly 6% of its margin by preventing churn.
 
 ## Instructions
 
-The answers are in an interactive python notebook called `Project Churn.ipynb` to be launched with Jupyter notebook, or directly in your browser by clicking on it. 
+The content of this case study is in the notebook [Project Churn.ipynb](https://github.com/oulianov/churnpowerco/blob/master/Project%20Churn.ipynb) to be opened online. 
