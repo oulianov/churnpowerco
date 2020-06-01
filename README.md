@@ -1,4 +1,4 @@
-# powercochurn
+# churnpowerco
 Prediction of client's churn at the energy provider company PowerCo.
 
 ## Presentation
